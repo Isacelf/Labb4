@@ -52,7 +52,7 @@
             }
             else
             {
-                Console.WriteLine("Empoloyee3 is not in the stack!");
+                Console.WriteLine("Employee3 is not in the stack!");
             }
             Console.WriteLine("---------------------------------------");
 
